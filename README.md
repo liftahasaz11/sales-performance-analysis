@@ -2,7 +2,8 @@
 Sales Performance Analysis with SQL and Dashboard
 # 🎯 Sales Performance Analytics Dashboard
 
-![Dashboard Preview](dashboard/screenshots/main_dashboard.png)
+![Dashboard Preview](![Dashboard_-_Final_Project_PBI (1)_page-0001](https://github.com/user-attachments/assets/ab82a614-570a-461e-bec5-17b2e542dfe8)
+)
 
 ## 📈 Executive Summary
 Comprehensive sales performance analysis for 2020-2021 featuring customer behavior insights, geographic distribution, and product category performance. This project transforms raw data into actionable business intelligence.
