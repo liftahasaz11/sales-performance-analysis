@@ -19,11 +19,30 @@ Comprehensive sales performance analysis for 2020-2021 featuring customer behavi
 - **Peak Quarter**: Q3 2020 ($250K sales)
 
 ### 🔍 Critical Findings
-- 🟢 **Strengths**: Strong revenue in physical  (+226% in Q2 2020)
-- 🔴 **Challenges**: High churn rate (83% in Q4 2021)
+- 🟢 **Strengths**: Strong revenue in physical products and high demand in digital products
+- 🔴 **Challenges**: Weak performances in mid year (Q2)
 - 💡 **Opportunities**: Digital product monetization & geographic expansion
 
 ---
 
-## 🛠️ Project Structure
+---
 
+## 📊 Dashboard Features
+
+### 🎛️ Main Components
+
+1. **Sales Performance**
+   - Quarterly trends
+   - Product category breakdown
+   - Seasonal patterns
+
+2. **Geographic Insights**
+   - Sales by city (Washington, Houston, Birmingham)
+   - International distribution (USA, UK focus)
+
+3. **Product Analysis**
+   - Top 5 categories by revenue
+   - Order quantity trends
+   - Digital vs physical products
+
+---
